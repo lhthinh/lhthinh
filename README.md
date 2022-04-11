@@ -6,7 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+<<<<<<< HEAD
 ### `npm starta`
+=======
+### `npm startb`
+>>>>>>> 3621e062fedd788b53cd20c69f8f85f76ede45c1
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
